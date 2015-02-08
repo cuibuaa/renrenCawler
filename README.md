@@ -3,7 +3,12 @@ renrenCawler
 
 A cawler based on ghost.py which is used for extract blog in renren web site( the Chinese facebook)
 
-The files ghost.py and logger.py are two files modified based on ghost-01b6 version, they should be copied to the path /$PYTHON_PATH/Lib/site-packages/Ghost.py-0.1b6-py3.4.egg/ghost
+INSTALL
+
+1) Install the ghost package firs, pip install ghost.py --pre (More details you can see the web site:https://github.com/jeanphix/Ghost.py)
+2) The files ghost.py and logger.py are two files modified based on ghost-01b6 version, they should be copied to the path /$PYTHON_PATH/Lib/site-packages/Ghost.py-0.1b6-py3.4.egg/ghost
+
+HOW TO USE
 
 The file ghost_renren.py is the main program for the cawler. Here are the steps how to use it
 
